@@ -1,2 +1,4 @@
-print("hola mundo desde ubuntu")
+texto = "hola mundo desde una variable"
+
+print(texto)
 
