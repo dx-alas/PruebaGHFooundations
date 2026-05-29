@@ -1,2 +1,2 @@
 # Titulo de Práctica GitHub Foundations
-
+TEXTO EN LA MISMA LINEA (GENERAR CONFLICTO A PROPOSITO)
